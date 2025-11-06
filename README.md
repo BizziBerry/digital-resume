@@ -1,5 +1,7 @@
 # AI Developer Portfolio
 
+**[👉 View Live Website](https://bizziberry.github.io/digital-resume/)**
+
 Personal portfolio website showcasing AI/ML projects and professional experience.
 
 ## 🛠 Tech Stack
@@ -13,4 +15,5 @@ Personal portfolio website showcasing AI/ML projects and professional experience
 - Data Science  
 - RAG Systems
 - Python, SQL, JavaScript
+
 
